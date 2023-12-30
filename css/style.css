@@ -70,7 +70,7 @@ img{
     text-transform: uppercase;
     margin-right: 76px;
 }
-    
+
 .header-logo {
     color:#2e2f42;
     font-family: "Raleway", sans-serif;
@@ -79,7 +79,6 @@ img{
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    padding: 24px 0;
 }
 
 
@@ -110,6 +109,7 @@ img{
 
 .header-address {
     font-style: normal;
+    padding: 24px 0;
 }
 
 .header-address-list {
