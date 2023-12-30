@@ -58,6 +58,7 @@ img{
     flex-grow:1;
     align-items: center;
     justify-content: space-between;
+    padding: 24px 0;
 }
 
 .header-navigation-logo{
@@ -103,7 +104,6 @@ img{
 }
 
 .header-list-item {
-    padding: 24px 0;
 }
 
 .header-address {
