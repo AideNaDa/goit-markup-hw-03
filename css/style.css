@@ -100,11 +100,10 @@ img{
 .header-navigation-list {
     display: flex;
     gap: 40px;
-    padding: 24px 0;
 }
 
 .header-list-item {
-    
+    padding: 24px 0;
 }
 
 .header-address {
